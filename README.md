@@ -1,13 +1,6 @@
-# Meus dados Netflix
+# Dashboards-Power-BI
 
-Esse Dashboard foi realizado com meus dados de acesso a plataforma de streaming Netflix.
+Repositório de Dashboards feitos em Power BI.
 
-As perguntas para elaborar o relatório foram:
+Bem vindes! Este é um repositório onde você pode encontrar os Dashboards realizados por mim. Em cada pasta está um Dashboard diferente, junto com um README.md explicando mais sobre as etapas de ETL e construção dos visuais.
 
-1- Quantos títulos foram assistidos na plataforma?
-
-2- Quantos vídeos foram assistidos por categoria (filmes/séries)?
-
-3- Quantidade de vídeos assistidos por gênero.
-
-4- Quais os dias da semana tiveram mais acessos?
